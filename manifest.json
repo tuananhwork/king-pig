@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Test",
+    "version": "1.0",
+    "description": "Description of Test",
+    "browser_action": {
+      "default_icon": "./images/clear.png",
+      "default_popup": "index.html"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
